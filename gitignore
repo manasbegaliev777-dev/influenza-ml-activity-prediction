@@ -1,0 +1,40 @@
+# Данные (конфиденциальные, не загружаем в репозиторий)
+data/*.xlsx
+data/*.csv
+data/*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Временные файлы и графики (генерируются при запуске)
+*.png
+*.jpg
+*.jpeg
+
+# Системные
+Thumbs.db
+desktop.ini
