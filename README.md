@@ -39,7 +39,7 @@
 │   ├── 07_classification_SI_median.ipynb     # Классификация: SI > медианы
 │   └── 08_classification_SI_8.ipynb          # Классификация: SI > 8
 ├── report/
-│   └── Аналитический_отчёт_Бегалиев_Манас.docx
+│   └── Аналитический_отчёт_Бегали_уулу_Манас_КР_Классическое_МО.docx
 ├── data/
 │   └── README.md                             # Описание датасета
 ├── requirements.txt
