@@ -1,0 +1,44 @@
+# Данные (конфиденциальные материалы курса)
+*.xlsx
+*.csv
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Временные файлы (артефакты конвертации LibreOffice)
+*.tmp
+~*
+
+# CatBoost и LibreOffice артефакты
+catboost_info/
+.~lock.*
